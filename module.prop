@@ -1,0 +1,6 @@
+id=thermal_mod
+name=ThermalService
+version=1.0
+versionCode=1
+author=1q23lyc45
+description=A thermal daemon written in shell scripts.
